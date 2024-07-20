@@ -1,0 +1,9 @@
+authors:
+  Admin:
+    name: Admin
+    description: Adminstrator
+    avatar: https://owasp.org/www-project-security-champions-guidebook/POC/MKDocs/site/blog/assets/Avatar2.png
+  Robin:
+    name: Robin
+    description: Project lead
+    avatar: https://owasp.org/www-project-security-champions-guidebook/POC/MKDocs/site/blog/assets/Avatar1.png
