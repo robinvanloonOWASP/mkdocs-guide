@@ -22,10 +22,7 @@ plugins:
 
 nav:
   - Introduction: index.md
-  #- Notice: '0x00-notice.md'
-  #- Introduction: 'Introduction.md'
   - Manifesto: 'Manifesto.md'
-  #- About OWASP: 'A00-about-owasp.md'
   - Principles:
     - 1. Be passionate about security: 'Be_passionate_about_security.md'
     - 2. Start with a clear vision for your program: 'Start_with_a_clear_vision_for_your_program.md'
@@ -37,7 +34,6 @@ nav:
     - 8. Reward responsibility: 'Reward_responsibility.md'
     - 9. Invest in your champions: 'Invest_in_your_champions.md'
     - 10. Anticipate personnel changes: 'Anticipate_personnel_changes.md'
-    #- Maturity model: 'Maturity_model.md'
     - Get involved: 'Get_involved.md'
     - Blog: blog/index.md
 
