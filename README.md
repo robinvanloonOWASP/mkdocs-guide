@@ -11,4 +11,7 @@ python3 -m pip install mkdocs
 ### Test it locally
 
 python3 -m mkdocs serve to run website on http://127.0.0.1:8000/
+
+or
+
 python3 -m mkdocs build to generate site content for deployment
