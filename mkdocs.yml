@@ -20,6 +20,9 @@ plugins:
         - News
   - offline
 
+markdown_extensions:
+  - attr_list
+
 nav:
   - Introduction: index.md
   - Manifesto: 'Manifesto.md'
@@ -34,8 +37,6 @@ nav:
     - 8. Reward responsibility: 'Reward_responsibility.md'
     - 9. Invest in your champions: 'Invest_in_your_champions.md'
     - 10. Anticipate personnel changes: 'Anticipate_personnel_changes.md'
-    - Get involved: 'Get_involved.md'
-    - Blog: blog/index.md
-
-markdown_extensions:
-  - attr_list
+  - Maturity model: 'Maturity_model.md'
+  - Get involved: 'Get_involved.md'
+  - Blog: blog/index.md
