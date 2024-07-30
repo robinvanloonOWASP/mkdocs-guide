@@ -1,0 +1,48 @@
+.awsbutton {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #ff9900;
+    color: #ffffff;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+
+  .awsbutton:focus {
+    /*outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;*/
+    outline: none !important;
+  }
+  .awsbutton:hover,
+  .awsbutton:focus {
+    font: bold 11px Arial;
+    color: #ffffff;
+    text-decoration: none !important;
+  }
+
+  .awsbutton-in-construction {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #DDDDDD;
+    color: #000000;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+  }
+  .awsbutton-in-construction:focus {
+    /*outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;*/
+    outline: none !important;
+  }
+  .awsbutton-in-construction:hover,
+  .awsbutton-in-construction:focus {
+    font: bold 11px Arial;
+    color: #000000;
+    text-decoration: none !important;
+  }

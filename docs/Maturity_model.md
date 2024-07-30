@@ -13,7 +13,71 @@ tags: Maturity
 | `Principle1`| Foo                    | Bar     |         |                        |            |         |
 | `Principle2`|                        |         | Foo     | Bar                    |            |         |
 
+<link rel="stylesheet" href="/css/custom.css">
 
+<table border=0 width=100%> 
+    <tr>
+        <td width=120><a href="/principles" target="_blank">Principles</a></td>
+        <td><font color=#ff9900><b>Initial</b></font></td>
+        <td><font color=#ff9900><b>Managed</b></font></td>
+        <td><font color=#ff9900><b>Defined</b></font></td>
+        <td><font color=#ff9900><b>Quantitatively<br>Managed</b></font></td>
+        <td><font color=#ff9900><b>Optimizing</b></font></td>
+    </tr>
+    <tr bgcolor=#BED3E1>
+        <td><b>Security governance</b></td>
+            <td>
+                <a href='' class="awsbutton">Foo</a>
+                <br>
+                <a href='' class="awsbutton">Bar</a>
+            </td>
+            <td> 
+                <a href='' class="awsbutton">Bar</a>
+            </td>
+            <td> 
+                <a href='' class="awsbutton">Foo</a>
+            </td>
+            <td> 
+                <a href='' class="awsbutton">Foo</a>
+            </td>
+            <td> 
+                <a href='' class="awsbutton">Foo</a>
+                <br>
+                <a href='' class="awsbutton">Bar</a>
+            </td>
+    </tr>
+    <tr bgcolor=#D9F0FD>
+        <td><b>Security assurance</b></td>
+            <td>
+                <div class="grid">
+                    <a href="#" class="card">Foo</a>
+                </div>
+            </td>
+            <td> 
+                <div class="grid">
+                    <a href="#" class="card">Bar</a>
+                </div>
+            <td> 
+                <div class="grid">
+                    <a href="#" class="card">Foo</a>
+                </div>
+            </td>
+            <td> 
+                <div class="grid">
+                    <a href="#" class="card">Foo</a>
+                </div>
+            </td>
+            <td> 
+                <div class="grid">
+                    <a href="#" class="card">Foo</a>
+                </div>
+                <br>
+                <div class="grid">
+                    <a href="#" class="card">Bar</a>
+                </div>
+            </td>
+    </tr>
+</table>
 
 <table>
     <tr>
@@ -110,11 +174,4 @@ tags: Maturity
             </div>
         </td>
     </tr>
-
 </table>
-
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
