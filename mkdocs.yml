@@ -26,6 +26,7 @@ markdown_extensions:
 nav:
   - Introduction: index.md
   - Manifesto: 'Manifesto.md'
+
   - Principles:
     - 1. Be passionate about security: 'Be_passionate_about_security.md'
     - 2. Start with a clear vision for your program: 'Start_with_a_clear_vision_for_your_program.md'
@@ -37,6 +38,26 @@ nav:
     - 8. Reward responsibility: 'Reward_responsibility.md'
     - 9. Invest in your champions: 'Invest_in_your_champions.md'
     - 10. Anticipate personnel changes: 'Anticipate_personnel_changes.md'
-  - Maturity model: 'Maturity_model.md'
+
+  - Maturity model:
+    - Introduction: maturitymodel/index.md
+    - Phases:
+      - 1. Initial: 'maturitymodel/phases/mm_initial.md'
+      - 2. Managed: 'maturitymodel/phases/mm_managed.md'
+      - 3. Defined: 'maturitymodel/phases/mm_defined.md'
+      - 4. Quantitatively Managed: 'maturitymodel/phases/mm_quantitatively_managed.md'
+      - 5. Optimizing: 'maturitymodel/phases/mm_optimizing.md'
+    - Principles:
+      - 1. Be passionate about security: 'maturitymodel/principles/mm_Be_passionate_about_security.md'
+      - 2. Start with a clear vision for your program: 'maturitymodel/principles/mm_Start_with_a_clear_vision_for_your_program.md'
+      - 3. Secure management support: 'maturitymodel/principles/mm_Secure_management_support.md'
+      - 4. Nominate a dedicated captain: 'maturitymodel/principles/mm_Nominate_a_dedicated_captain.md'
+      - 5. Trust your champions: 'maturitymodel/principles/mm_Trust_your_champions.md'
+      - 6. Create a community: 'maturitymodel/principles/mm_Create_a_community.md'
+      - 7. Promote knowledge sharing: 'maturitymodel/principles/mm_Promote_knowledge_sharing.md'
+      - 8. Reward responsibility: 'maturitymodel/principles/mm_Reward_responsibility.md'
+      - 9. Invest in your champions: 'maturitymodel/principles/mm_Invest_in_your_champions.md'
+      - 10. Anticipate personnel changes: 'maturitymodel/principles/mm_Anticipate_personnel_changes.md'
+
   - Get involved: 'Get_involved.md'
   - Blog: blog/index.md
