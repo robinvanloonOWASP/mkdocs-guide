@@ -13,7 +13,7 @@ tags: Maturity
 | `Principle1`| Foo                    | Bar     |         |                        |            |         |
 | `Principle2`|                        |         | Foo     | Bar                    |            |         |
 
-<link rel="stylesheet" href="/css/custom.css">
+<link rel="stylesheet" href="../assets/css/custom.css">
 
 <table border=0 width=100%> 
     <tr>
